@@ -1,7 +1,7 @@
 # Análisis de Datos e Inteligencia Artificial Aplicada  
 ## Enfoque en Información Regional – Tangará - Sistema de información socioeconómica del Cauca
 
-Este repositorio documenta un proyecto de **análisis de datos**, **visualización** e **inteligencia artificial aplicada a la toma de decisiones**, desarrollado en el marco de un proceso de **innovación educativa** con enfoque en **datos regionales y comerciales**, utilizando información del municipio de **Tángara - Sistema de información socioeconómica del Cauca (Cauca, Colombia)**.
+Este repositorio documenta un proyecto de **análisis de datos**, **visualización** e **inteligencia artificial aplicada a la toma de decisiones**, desarrollado en el marco de un proceso de **innovación educativa** con enfoque en **datos regionales y comerciales**, utilizando información del departamento del Cauca mediante **Tángara - Sistema de información socioeconómica del Cauca (Cauca, Colombia)**.
 
 El proyecto hace énfasis en el uso de datos como herramienta estratégica para el análisis de **salud, bienestar y gestión pública**, combinando metodologías estadísticas, visualización interactiva y principios de analítica moderna.
 
