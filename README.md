@@ -41,7 +41,7 @@ Puedes consultar el **dashboard interactivo** del proyecto en el siguiente enlac
 
 ##  Objetivos del Proyecto
 
-- Analizar datos regionales de Tangará del Cauca  
+- Analizar datos regionales de Tangará
 - Transformar datos en información útil para la toma de decisiones  
 - Visualizar indicadores de manera clara e interactiva  
 - Aplicar conceptos de analítica de datos e inteligencia artificial  
@@ -60,8 +60,7 @@ Puedes consultar el **dashboard interactivo** del proyecto en el siguiente enlac
 
 ## Autor
 
-**Daniel Stevan Ortiz Dorado**  
-**Juan Carlos Obando**
+**Daniel Stevan Ortiz Dorado - Juan Carlos Obando**
 Análisis de datos · Inteligencia artificial aplicada · Innovación educativa  
 
 ---
